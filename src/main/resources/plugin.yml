@@ -1,0 +1,4 @@
+name: BlockBazaar
+version: '1.0-SNAPSHOT'
+main: site.backrer.blockBazaar.BlockBazaar
+api-version: '1.20'
